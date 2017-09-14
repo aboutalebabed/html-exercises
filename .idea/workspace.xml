@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bd222e17-7a6c-429e-9fc8-805c5fbd7b28" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Exercise-3-Form/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Exercise-3-Form/wiki.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -48,17 +46,17 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Exercise-3-Form/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+            <state relative-caret-position="150">
+              <caret line="10" column="59" lean-forward="true" selection-start-line="10" selection-start-column="59" selection-end-line="10" selection-end-column="59" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="wiki.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="wiki.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Exercise-3-Form/wiki.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="210">
@@ -211,7 +209,7 @@
       <option name="presentableId" value="Default" />
       <updated>1505199251174</updated>
       <workItem from="1505199254520" duration="7569000" />
-      <workItem from="1505380966820" duration="4146000" />
+      <workItem from="1505380966820" duration="4156000" />
     </task>
     <task id="LOCAL-00001" summary="Added Hello World to Body...">
       <created>1505199571980</created>
@@ -290,11 +288,18 @@
       <option name="project" value="LOCAL" />
       <updated>1505210290193</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Added Radio Buts...&#10;Added &amp;lt;div&amp;gt; &amp;lt;/div&amp;gt;&#10;Added exercise-4 Folder and index to it..&#10;Added some new Lines..&#10;Added exercise-3 Folder and index to it..&#10;Added UTF8&#10;Added exercise-2 Folder and index to it..">
+      <created>1505389070194</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1505389070194</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11715000" />
+    <option name="totallyTimeSpent" value="11725000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="17" y="200" width="1260" height="657" extended-state="0" />
@@ -433,18 +438,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Exercise-3-Form/wiki.html">
+    <entry file="file://$PROJECT_DIR$/Exercise-3-Form/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="7" lean-forward="true" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
+        <state relative-caret-position="150">
+          <caret line="10" column="59" lean-forward="true" selection-start-line="10" selection-start-column="59" selection-end-line="10" selection-end-column="59" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Exercise-3-Form/index.html">
+    <entry file="file://$PROJECT_DIR$/Exercise-3-Form/wiki.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+        <state relative-caret-position="210">
+          <caret line="14" column="7" lean-forward="true" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
           <folding />
         </state>
       </provider>
