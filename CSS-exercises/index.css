@@ -1,0 +1,13 @@
+#divtest {
+     color: blue;
+     font-size: 25px;
+ }
+
+.classtest {
+    font-size: 30px;
+}
+
+.divclasstest {
+    color: red;
+    font-size: 25px;
+}
