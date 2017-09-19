@@ -1,5 +1,4 @@
 #divtest {
-     color: blue;
      font-size: 25px;
  }
 
@@ -8,6 +7,36 @@
 }
 
 .divclasstest {
-    color: red;
     font-size: 25px;
+}
+
+
+a [href^="http"] { color: green;
+}
+
+h1 {
+    background-color: grey;
+
+}
+
+p {
+    background-color: red;
+}
+
+#divtest > p {
+    background-color: green;
+}
+
+a:hover, a:visited, a:link, a:active
+{
+    text-decoration: none;
+}
+
+div:first-of-type + p
+{
+    background-color: pink;
+}
+div ~ p
+{
+    background-color: yellow;
 }
