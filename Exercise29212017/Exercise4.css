@@ -1,0 +1,10 @@
+div:first-child
+{
+    background-image: url("https://stegforhalsa.se/wp-content/uploads/2015/09/granny-smith-apple.jpg");
+    background-color: gold;
+    border: 2px solid #D4D4D4;
+    height: 600px;
+    width: 600px;
+    background-repeat: no-repeat;
+}
+
