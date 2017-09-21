@@ -1,0 +1,11 @@
+article > p:first-child
+{
+ color: red;
+}
+
+article::before
+{
+    content: url("https://stegforhalsa.se/wp-content/uploads/2015/09/granny-smith-apple.jpg");
+    width: 100px;
+    height: 100px;
+}
