@@ -1,0 +1,53 @@
+body > header
+{
+    width: 50em;
+    background: red;color:white;
+    padding: 1em;
+    clear: left;
+    text-align: center;
+    float: left;
+}
+
+body > nav
+{
+    width: 50em;
+    background: green;color:white;
+    padding: 1em;
+    clear: left;
+    text-align: center;
+    float: left;
+}
+
+body > main
+{
+    width: 30em;
+    height: 10em;
+    background: mediumpurple;color:white;
+    border-left: 1px solid gray;
+    padding: 1em;
+    overflow: hidden;
+    float: left;
+    clear: both;
+    left: 0;
+    bottom: 100em;
+}
+
+body > aside
+{
+    width: 20em;
+    background: dodgerblue;color:white;
+    float: right;
+    margin-right: 20em;
+    hight: 30em;
+
+}
+
+body > footer
+{
+    width: 50em;
+    background: orange;color:white;
+    padding: 1em;
+    clear: left;
+    text-align: center;
+    float: left;
+}
