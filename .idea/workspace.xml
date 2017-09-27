@@ -1,13 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bd222e17-7a6c-429e-9fc8-805c5fbd7b28" name="Default" comment="Added some CSS styles..&#10;Added CSS Folder&#10;Added Radio Buts...&#10;Added &amp;lt;div&amp;gt; &amp;lt;/div&amp;gt;&#10;Added exercise-4 Folder and index to it..&#10;Added some new Lines..&#10;Added exercise-3 Folder and index to it..&#10;Added UTF8&#10;Added exercise-2 Folder and index to it..">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Exercise26092017/2/Bup/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Exercise26092017/2/Bup/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Exercise26092017/2/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Exercise26092017/2/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Exercise26092017/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Exercise26092017/style.css" />
+    <list default="true" id="bd222e17-7a6c-429e-9fc8-805c5fbd7b28" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CSS-flexbox-exercises/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CSS-flexbox-exercises/style.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -23,40 +19,40 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Exercise26092017/index.html">
+        <entry file="file://$PROJECT_DIR$/Exercise26092017/2/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="20" lean-forward="false" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
+            <state relative-caret-position="120">
+              <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Exercise26092017/style.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="58" column="30" lean-forward="false" selection-start-line="58" selection-start-column="30" selection-end-line="58" selection-end-column="30" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Exercise26092017/2/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="600">
-              <caret line="40" column="27" lean-forward="true" selection-start-line="40" selection-start-column="27" selection-end-line="40" selection-end-column="27" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Exercise26092017/2/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1590">
-              <caret line="106" column="1" lean-forward="false" selection-start-line="106" selection-start-column="1" selection-end-line="106" selection-end-column="1" />
+            <state relative-caret-position="60">
+              <caret line="4" column="14" lean-forward="true" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/CSS-flexbox-exercises/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="83">
+              <caret line="13" column="14" lean-forward="true" selection-start-line="13" selection-start-column="14" selection-end-line="13" selection-end-column="14" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CSS-flexbox-exercises/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="71">
+              <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -105,6 +101,8 @@
         <option value="$PROJECT_DIR$/Exercise26092017/2/Bup/style.css" />
         <option value="$PROJECT_DIR$/Exercise26092017/2/index.html" />
         <option value="$PROJECT_DIR$/Exercise26092017/2/style.css" />
+        <option value="$PROJECT_DIR$/CSS-flexbox-exercises/style.css" />
+        <option value="$PROJECT_DIR$/CSS-flexbox-exercises/index.html" />
       </list>
     </option>
   </component>
@@ -115,8 +113,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="14" />
-    <option name="y" value="158" />
+    <option name="x" value="-12" />
+    <option name="y" value="345" />
     <option name="width" value="1260" />
     <option name="height" value="567" />
   </component>
@@ -145,18 +143,7 @@
             <path>
               <item name="html-exercises" type="b2602c69:ProjectViewProjectNode" />
               <item name="html-exercises" type="462c0819:PsiDirectoryNode" />
-              <item name="CSSExercies9212017" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="html-exercises" type="b2602c69:ProjectViewProjectNode" />
-              <item name="html-exercises" type="462c0819:PsiDirectoryNode" />
-              <item name="Exercise26092017" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="html-exercises" type="b2602c69:ProjectViewProjectNode" />
-              <item name="html-exercises" type="462c0819:PsiDirectoryNode" />
-              <item name="Exercise26092017" type="462c0819:PsiDirectoryNode" />
-              <item name="2" type="462c0819:PsiDirectoryNode" />
+              <item name="CSS-flexbox-exercises" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -204,7 +191,7 @@
       <workItem from="1505199254520" duration="7569000" />
       <workItem from="1505380966820" duration="4693000" />
       <workItem from="1505804416767" duration="5410000" />
-      <workItem from="1505977980060" duration="25263000" />
+      <workItem from="1505977980060" duration="30097000" />
     </task>
     <task id="LOCAL-00001" summary="Added Hello World to Body...">
       <created>1505199571980</created>
@@ -374,14 +361,21 @@
       <option name="project" value="LOCAL" />
       <updated>1506408732554</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="27-Sep-2017-Sidan Resp&#10;Added some CSS styles..&#10;Added CSS Folder&#10;Added Radio Buts...&#10;Added &amp;lt;div&amp;gt; &amp;lt;/div&amp;gt;&#10;Added exercise-4 Folder and index to it..&#10;Added some new Lines..&#10;Added exercise-3 Folder and index to it..&#10;Added UTF8&#10;Added exercise-2 Folder and index to it..">
+      <created>1506499883049</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1506499883049</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="42935000" />
+    <option name="totallyTimeSpent" value="47769000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="14" y="158" width="1260" height="567" extended-state="0" />
+    <frame x="-12" y="345" width="1260" height="567" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -430,7 +424,8 @@
     <MESSAGE value="Added Radio Buts...&#10;Added &amp;lt;div&amp;gt; &amp;lt;/div&amp;gt;&#10;Added exercise-4 Folder and index to it..&#10;Added some new Lines..&#10;Added exercise-3 Folder and index to it..&#10;Added UTF8&#10;Added exercise-2 Folder and index to it.." />
     <MESSAGE value="Added CSS Folder&#10;Added Radio Buts...&#10;Added &amp;lt;div&amp;gt; &amp;lt;/div&amp;gt;&#10;Added exercise-4 Folder and index to it..&#10;Added some new Lines..&#10;Added exercise-3 Folder and index to it..&#10;Added UTF8&#10;Added exercise-2 Folder and index to it.." />
     <MESSAGE value="Added some CSS styles..&#10;Added CSS Folder&#10;Added Radio Buts...&#10;Added &amp;lt;div&amp;gt; &amp;lt;/div&amp;gt;&#10;Added exercise-4 Folder and index to it..&#10;Added some new Lines..&#10;Added exercise-3 Folder and index to it..&#10;Added UTF8&#10;Added exercise-2 Folder and index to it.." />
-    <option name="LAST_COMMIT_MESSAGE" value="Added some CSS styles..&#10;Added CSS Folder&#10;Added Radio Buts...&#10;Added &amp;lt;div&amp;gt; &amp;lt;/div&amp;gt;&#10;Added exercise-4 Folder and index to it..&#10;Added some new Lines..&#10;Added exercise-3 Folder and index to it..&#10;Added UTF8&#10;Added exercise-2 Folder and index to it.." />
+    <MESSAGE value="27-Sep-2017-Sidan Resp&#10;Added some CSS styles..&#10;Added CSS Folder&#10;Added Radio Buts...&#10;Added &amp;lt;div&amp;gt; &amp;lt;/div&amp;gt;&#10;Added exercise-4 Folder and index to it..&#10;Added some new Lines..&#10;Added exercise-3 Folder and index to it..&#10;Added UTF8&#10;Added exercise-2 Folder and index to it.." />
+    <option name="LAST_COMMIT_MESSAGE" value="27-Sep-2017-Sidan Resp&#10;Added some CSS styles..&#10;Added CSS Folder&#10;Added Radio Buts...&#10;Added &amp;lt;div&amp;gt; &amp;lt;/div&amp;gt;&#10;Added exercise-4 Folder and index to it..&#10;Added some new Lines..&#10;Added exercise-3 Folder and index to it..&#10;Added UTF8&#10;Added exercise-2 Folder and index to it.." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -620,14 +615,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Exercise26092017/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="58" column="30" lean-forward="false" selection-start-line="58" selection-start-column="30" selection-end-line="58" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/CSSExercies9212017/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
@@ -652,6 +639,22 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Exercise26092017/2/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="14" lean-forward="true" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercise26092017/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="58" column="30" lean-forward="false" selection-start-line="58" selection-start-column="30" selection-end-line="58" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Exercise26092017/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
@@ -662,16 +665,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Exercise26092017/2/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="40" column="27" lean-forward="true" selection-start-line="40" selection-start-column="27" selection-end-line="40" selection-end-column="27" />
+        <state relative-caret-position="120">
+          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Exercise26092017/2/style.css">
+    <entry file="file://$PROJECT_DIR$/CSS-flexbox-exercises/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1590">
-          <caret line="106" column="1" lean-forward="false" selection-start-line="106" selection-start-column="1" selection-end-line="106" selection-end-column="1" />
+        <state relative-caret-position="71">
+          <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CSS-flexbox-exercises/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="83">
+          <caret line="13" column="14" lean-forward="true" selection-start-line="13" selection-start-column="14" selection-end-line="13" selection-end-column="14" />
           <folding />
         </state>
       </provider>

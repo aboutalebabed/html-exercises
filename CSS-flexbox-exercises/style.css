@@ -1,0 +1,25 @@
+body {
+    display: flex;
+}
+
+section > div.flexbox
+{
+    display: flex;
+    flex-direction: row;
+}
+
+section > div.flexbox > article
+{
+    flex:1;
+}
+
+section > div.flexbox > article:first-of-type
+{
+    background: orange;
+}
+
+section > div.flexbox > article:last-of-type
+{
+    background: #e0ddd5;
+    flex:2;
+}
