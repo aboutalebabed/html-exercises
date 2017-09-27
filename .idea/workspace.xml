@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bd222e17-7a6c-429e-9fc8-805c5fbd7b28" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StretchtasksLast/index.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StretchtasksLast/index.html" />
+    <list default="true" id="bd222e17-7a6c-429e-9fc8-805c5fbd7b28" name="Default" comment="Added some CSS styles..&#10;Added CSS Folder&#10;Added Radio Buts...&#10;Added &amp;lt;div&amp;gt; &amp;lt;/div&amp;gt;&#10;Added exercise-4 Folder and index to it..&#10;Added some new Lines..&#10;Added exercise-3 Folder and index to it..&#10;Added UTF8&#10;Added exercise-2 Folder and index to it..">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Exercise26092017/2/Bup/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Exercise26092017/2/Bup/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Exercise26092017/2/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Exercise26092017/2/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Exercise26092017/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Exercise26092017/style.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -18,61 +22,41 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Exercise4.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Exercise29212017/Exercise4.css">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Exercise26092017/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="30" lean-forward="true" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
+            <state relative-caret-position="240">
+              <caret line="16" column="20" lean-forward="false" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Exercise4.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Exercise29212017/Exercise4.html">
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Exercise26092017/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="8" lean-forward="false" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
+            <state relative-caret-position="180">
+              <caret line="58" column="30" lean-forward="false" selection-start-line="58" selection-start-column="30" selection-end-line="58" selection-end-column="30" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Stretch9212017/index.html">
+        <entry file="file://$PROJECT_DIR$/Exercise26092017/2/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="44" />
+            <state relative-caret-position="600">
+              <caret line="40" column="27" lean-forward="true" selection-start-line="40" selection-start-column="27" selection-end-line="40" selection-end-column="27" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Stretch9212017/index.css">
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Exercise26092017/2/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="23" lean-forward="false" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.css" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/StretchtasksLast/index.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="67">
-              <caret line="32" column="1" lean-forward="true" selection-start-line="32" selection-start-column="1" selection-end-line="32" selection-end-column="1" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/StretchtasksLast/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="7" lean-forward="false" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="7" />
+            <state relative-caret-position="1590">
+              <caret line="106" column="1" lean-forward="false" selection-start-line="106" selection-start-column="1" selection-end-line="106" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -115,6 +99,12 @@
         <option value="$PROJECT_DIR$/Stretch9212017/index.css" />
         <option value="$PROJECT_DIR$/StretchtasksLast/index.html" />
         <option value="$PROJECT_DIR$/StretchtasksLast/index.css" />
+        <option value="$PROJECT_DIR$/Exercise26092017/index.html" />
+        <option value="$PROJECT_DIR$/Exercise26092017/style.css" />
+        <option value="$PROJECT_DIR$/Exercise26092017/2/Bup/index.html" />
+        <option value="$PROJECT_DIR$/Exercise26092017/2/Bup/style.css" />
+        <option value="$PROJECT_DIR$/Exercise26092017/2/index.html" />
+        <option value="$PROJECT_DIR$/Exercise26092017/2/style.css" />
       </list>
     </option>
   </component>
@@ -125,8 +115,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-16" />
-    <option name="y" value="136" />
+    <option name="x" value="14" />
+    <option name="y" value="158" />
     <option name="width" value="1260" />
     <option name="height" value="567" />
   </component>
@@ -155,7 +145,18 @@
             <path>
               <item name="html-exercises" type="b2602c69:ProjectViewProjectNode" />
               <item name="html-exercises" type="462c0819:PsiDirectoryNode" />
-              <item name="StretchtasksLast" type="462c0819:PsiDirectoryNode" />
+              <item name="CSSExercies9212017" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="html-exercises" type="b2602c69:ProjectViewProjectNode" />
+              <item name="html-exercises" type="462c0819:PsiDirectoryNode" />
+              <item name="Exercise26092017" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="html-exercises" type="b2602c69:ProjectViewProjectNode" />
+              <item name="html-exercises" type="462c0819:PsiDirectoryNode" />
+              <item name="Exercise26092017" type="462c0819:PsiDirectoryNode" />
+              <item name="2" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -203,7 +204,7 @@
       <workItem from="1505199254520" duration="7569000" />
       <workItem from="1505380966820" duration="4693000" />
       <workItem from="1505804416767" duration="5410000" />
-      <workItem from="1505977980060" duration="10403000" />
+      <workItem from="1505977980060" duration="25263000" />
     </task>
     <task id="LOCAL-00001" summary="Added Hello World to Body...">
       <created>1505199571980</created>
@@ -366,14 +367,21 @@
       <option name="project" value="LOCAL" />
       <updated>1505986526781</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="Added some CSS styles..&#10;Added CSS Folder&#10;Added Radio Buts...&#10;Added &amp;lt;div&amp;gt; &amp;lt;/div&amp;gt;&#10;Added exercise-4 Folder and index to it..&#10;Added some new Lines..&#10;Added exercise-3 Folder and index to it..&#10;Added UTF8&#10;Added exercise-2 Folder and index to it..">
+      <created>1506408732554</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1506408732554</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28075000" />
+    <option name="totallyTimeSpent" value="42935000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-16" y="136" width="1260" height="567" extended-state="0" />
+    <frame x="14" y="158" width="1260" height="567" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -548,14 +556,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CSSExercies9212017/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/CSSExercies9212017/index.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
@@ -572,18 +572,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Exercise29212017/Exercise4.css">
+    <entry file="file://$PROJECT_DIR$/StretchtasksLast/index.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="30" lean-forward="true" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
+        <state relative-caret-position="480">
+          <caret line="32" column="1" lean-forward="true" selection-start-line="32" selection-start-column="1" selection-end-line="32" selection-end-column="1" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Exercise29212017/Exercise4.html">
+    <entry file="file://$PROJECT_DIR$/StretchtasksLast/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="8" lean-forward="false" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
+        <state relative-caret-position="195">
+          <caret line="13" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="23" selection-end-column="7" />
           <folding />
         </state>
       </provider>
@@ -604,18 +604,74 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/StretchtasksLast/index.html">
+    <entry file="file://$PROJECT_DIR$/Exercise29212017/Exercise4.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
-          <caret line="10" column="7" lean-forward="false" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="7" />
+          <caret line="10" column="8" lean-forward="false" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/StretchtasksLast/index.css">
+    <entry file="file://$PROJECT_DIR$/Exercise29212017/Exercise4.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="67">
-          <caret line="32" column="1" lean-forward="true" selection-start-line="32" selection-start-column="1" selection-end-line="32" selection-end-column="1" />
+        <state relative-caret-position="60">
+          <caret line="4" column="30" lean-forward="true" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercise26092017/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="58" column="30" lean-forward="false" selection-start-line="58" selection-start-column="30" selection-end-line="58" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CSSExercies9212017/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercise26092017/2/Bup/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="43" column="7" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="43" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercise26092017/2/Bup/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="80" column="17" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="92" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercise26092017/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="20" lean-forward="false" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercise26092017/2/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="40" column="27" lean-forward="true" selection-start-line="40" selection-start-column="27" selection-end-line="40" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercise26092017/2/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1590">
+          <caret line="106" column="1" lean-forward="false" selection-start-line="106" selection-start-column="1" selection-end-line="106" selection-end-column="1" />
           <folding />
         </state>
       </provider>

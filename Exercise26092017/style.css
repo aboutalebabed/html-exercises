@@ -1,0 +1,60 @@
+/*section > article
+{
+    position: sticky;
+    width: 70px;
+    hight: 20px;
+    background-color: #D4D4D4;
+    border: 3px solid #73AD21;
+} */
+
+section > article:nth-child(2)
+{
+    position: relative;
+    width: 400px;
+    height: 200px;
+    border: 3px solid #73AD21;
+}
+
+/*section > article
+{
+    position: absolute;
+    top: 80px;
+    right: 0;
+    width: 200px;
+    height: 100px;
+    border: 3px solid #73AD21;
+}*/
+
+section > article:first-child
+{
+    position: absolute;
+    top: 80px;
+    right: 0;
+    width: 200px;
+    height: 100px;
+    border: 3px solid #73AD21;
+}
+
+section > article:nth-child(3)
+{
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    width: 300px;
+    border: 3px solid #73AD21;
+}
+
+section > article:nth-child(4)
+{
+    position: static;
+    border: 3px solid #73AD21;
+}
+
+section > article:nth-child(5)
+{
+    position: -webkit-sticky; /* Safari */
+    position: sticky;
+    top: 0;
+    background-color: green;
+    border: 2px solid #4CAF50;
+}

@@ -1,0 +1,92 @@
+html, body {
+    margin: 0;
+    padding: 0;
+}
+
+header
+{
+    background-color: #D4D4D4;
+    margin:0;
+    padding:20px;
+    text-align: center;
+}
+
+nav
+{
+    background-color: darkgrey;
+    margin:0;
+    padding:10px;
+    text-align: center;
+}
+
+section
+{
+    float: left;
+    width: 700px;
+    padding-left: 0px;
+    margin: 0 0 0px 0px;
+}
+
+section > article:first-child
+{
+    background-color: black;
+    color: white;
+    margin:0;
+    padding:0;
+
+    text-align: right;
+}
+
+section > article:nth-child(2)
+{
+    background-color: white;
+    margin:0;
+    padding:0;
+}
+
+aside
+{
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px 0;
+    display: block;
+    height: 150px;
+}
+
+footer
+{
+    position: relative;
+    background-color: darkkhaki;
+    margin:0;
+    padding:20px;
+    text-align: center;
+    clear:both !important;
+
+
+}
+
+img
+{
+    float: left;
+    margin: 0 0 10px 10px;
+    max-height: 50px;
+    max-width: 50px;
+    object-fit: cover;
+}
+
+#wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    background-color: darkgrey;
+    color: black;
+    padding: 0;
+}
+
+h1
+{
+    color:black;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 10px;
+    text-align: left;
+}
